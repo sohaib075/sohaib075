@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hi, I'm Muhammad Sohaib 👋
 
-<!--
-**sohaib075/sohaib075** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=00F7FF&center=true&vCenter=true&width=800&lines=Web+Developer;UI%2FUX+Designer;AI+%26+Computer+Vision+Engineer;FAST+NUCES+CS+Student;Building+Smart+AI+%26+Web+Apps)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 Computer Science Student (FAST NUCES)
+- 💻 Full Stack Web Developer
+- 🤖 AI & Computer Vision Enthusiast
+- 🎨 UI/UX Designer
+- ⚡ I love building real-world smart systems
+
+---
+
+## 🧠 Tech Stack
+
+**Frontend**
+- React.js
+- JavaScript
+- Tailwind CSS
+- Bootstrap
+
+**Backend**
+- Node.js
+- Express.js
+- MongoDB
+- MySQL
+
+**AI / ML**
+- Python
+- OpenCV
+- TensorFlow
+- PyTorch
+- YOLOv8
+
+**Tools**
+- Git & GitHub
+- Figma
+- VS Code
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohaib075&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohaib075&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sohaib075&theme=tokyonight)
+
+---
+
+## 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sohaib075&theme=react-dark)
+
+---
+
+## 🌐 Connect With Me
+
+- 📧 Email: sohaibmuhammad429@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/muhammad-sohaib-5b894524a  
+- 🐙 GitHub: https://github.com/sohaib075  
+
+---
+
+## ⚡ Fun Line
+> "Code. Build. Break. Fix. Repeat."
+
+---
+
+⭐ Thanks for visiting my profile!

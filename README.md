@@ -45,23 +45,6 @@ I enjoy building real-world, scalable, and user-friendly applications.
 - Git & GitHub
 - VS Code
 - Figma
-- Postman
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohaib075&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📌 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaib075&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 

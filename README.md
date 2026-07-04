@@ -1,67 +1,75 @@
-# Hi, I'm Muhammad Sohaib 👋
+# Muhammad Sohaib
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=00F7FF&center=true&vCenter=true&width=800&lines=Web+Developer;UI%2FUX+Designer;AI+%26+Computer+Vision+Engineer;FAST+NUCES+CS+Student;Building+Smart+AI+%26+Web+Apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=800&lines=Software+Engineer;Full+Stack+Web+Developer;AI+%26+Computer+Vision+Engineer;FAST+NUCES+CS+Graduate)](https://git.io/typing-svg)
 
 ---
 
-## 🚀 About Me
-- 🎓 Computer Science Student (FAST NUCES)
-- 💻 Full Stack Web Developer
+## 👨‍💻 About Me
+
+I am a Computer Science student at FAST NUCES with a strong interest in **full-stack development, artificial intelligence, and computer vision**.  
+I focus on building scalable, efficient, and user-friendly web applications and AI-based systems.
+
+- 🎓 BS Computer Science (FAST NUCES, Faisalabad)
+- 💻 Full Stack Web Developer (MERN Stack)
 - 🤖 AI & Computer Vision Enthusiast
-- 🎨 UI/UX Designer
-- ⚡ I love building real-world smart systems
+- 🎨 UI/UX Design (Figma)
+- ⚡ Passionate about solving real-world problems using technology
 
 ---
 
-## 🧠 Tech Stack
+## 🛠️ Technical Skills
 
-**Frontend**
+### Frontend Development
 - React.js
-- JavaScript
+- JavaScript (ES6+)
+- HTML5 & CSS3
 - Tailwind CSS
 - Bootstrap
 
-**Backend**
+### Backend Development
 - Node.js
 - Express.js
+- REST APIs
 - MongoDB
 - MySQL
 
-**AI / ML**
+### Artificial Intelligence / Computer Vision
 - Python
 - OpenCV
 - TensorFlow
 - PyTorch
 - YOLOv8
+- OCR (Text Extraction)
 
-**Tools**
+### Tools & Platforms
 - Git & GitHub
-- Figma
 - VS Code
+- Figma
+- Postman
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohaib075&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohaib075&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohaib075&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sohaib075&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohaib075&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📈 Activity Graph
+## 🔥 Contribution Streak
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sohaib075&theme=react-dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=sohaib075&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🌐 Connect With Me
+## 📈 Activity Overview
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sohaib075&theme=react-dark)
+
+---
+
+## 📫 Contact Information
 
 - 📧 Email: sohaibmuhammad429@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/muhammad-sohaib-5b894524a  
@@ -69,9 +77,10 @@
 
 ---
 
-## ⚡ Fun Line
-> "Code. Build. Break. Fix. Repeat."
+## 💡 Professional Summary
+
+Focused on building clean, maintainable, and scalable software solutions with a strong emphasis on performance, usability, and real-world impact.
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Thank you for visiting my profile.
